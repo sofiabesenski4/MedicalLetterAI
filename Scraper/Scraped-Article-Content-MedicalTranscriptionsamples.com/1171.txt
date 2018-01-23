@@ -1,0 +1,14 @@
+Normal Physical Exam Template
+<p><b>GENERAL: </b> Alert, well developed, in no acute distress.</p>
+<p><b>MENTAL STATUS: </b> Judgment and insight appropriate for age.  Oriented to time, place and person.  No recent loss of memory.  Affect appropriate for age.</p>
+<p><b>EYES:  </b>Pupils are equal and reactive to light.  No hemorrhages or exudates.  Extraocular muscles intact.</p>
+<p><b>EAR, NOSE AND THROAT: </b> Oropharynx clean, mucous membranes moist.  Ears and nose without masses, lesions or deformities.  Tympanic membranes clear bilaterally.  Trachea midline.  No lymph node swelling or tenderness.</p>
+<p><b>RESPIRATORY:  </b>Clear to auscultation and percussion.  No wheezing, rales or rhonchi.</p>
+<p><b>CARDIOVASCULAR: </b> Heart sounds normal.  No thrills.  Regular rate and rhythm, no murmurs, rubs or gallops.</p>
+<p><b>GASTROINTESTINAL: </b> Abdomen soft, nondistended.  No pulsatile mass, no flank tenderness or suprapubic tenderness.  No hepatosplenomegaly.</p>
+<p><b>NEUROLOGIC: </b> Cranial nerves II-XII grossly intact.  No focal neurological deficits.  Deep tendon reflexes +2 bilaterally.  Babinski negative.  Moves all extremities spontaneously.  Sensation intact bilaterally.</p>
+<p><b>SKIN: </b> No rashes or lesions.  No petechia.  No purpura.  Good turgor.  No edema.</p>
+<p><b>MUSCULOSKELETAL: </b> No cyanosis or clubbing.  No gross deformities.  Capable of free range of motion without pain or crepitation.  No laxity, instability or dislocation.</p>
+<p><b>BONE: </b> No misalignment, asymmetry, defect, tenderness or effusion.  Capable of from of joint above and below bone.</p>
+<p><b>MUSCLE:  </b>No crepitation, defect, tenderness, masses or swellings.  No loss of muscle tone or strength.</p>
+<p><b>LYMPHATIC:</b>  Palpation of neck reveals no swelling or tenderness of neck nodes.  Palpation of groin reveals no swelling or tenderness of groin nodes.</p>

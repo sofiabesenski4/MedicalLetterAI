@@ -1,0 +1,12 @@
+Bilateral Mammogram
+<p><b>EXAM:</b>  Mammographic screening FFDM</p>
+<p><b>HISTORY: </b> 40-year-old female who is on oral contraceptive pills.  She has no present symptomatic complaints.  No prior history of breast surgery nor family history of breast CA.</p>
+<p><b>TECHNIQUE: </b> Standard CC and MLO views of the breasts.</p>
+<p><b>COMPARISON: </b> This is the patient’s baseline study.</p>
+<p><b>FINDINGS: </b> The breasts are composed of moderately to significantly dense fibroglandular tissue.  The overlying skin is unremarkable.</p>
+<p>There are a tiny cluster of calcifications in the right breast, near the central position associated with 11:30 on a clock.</p>
+<p>There are benign-appearing calcifications in both breasts as well as unremarkable axillary lymph nodes.</p>
+<p>There are no spiculated masses or architectural distortion.</p>
+<p><b>IMPRESSION:</b>  Tiny cluster of calcifications at the 11:30 position of the right breast.  Recommend additional views; spot magnification in the MLO and CC views of the right breast.</p>
+<p>BIRADS Classification 0 – Incomplete</p>
+<p><b>MAMMOGRAPHY INFORMATION:</b><br/>1.  A certain percentage of cancers, probably 10% to 15%, will not be identified by mammography.<br/>2.  Lack of radiographic evidence of malignancy should not delay a biopsy if a clinically suspicious mass is present.<br/>3.  These images were obtained with FDA-approved digital mammography equipment, and iCAD Second Look Software Version 7.2 was utilized.</p>

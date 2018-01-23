@@ -1,0 +1,14 @@
+Postop Medical Management
+<p><b>REASON FOR CONSULTATION: </b> Post-surgical medical management.</p>
+<p><b>PROCEDURE DONE: </b> Right total knee replacement.</p>
+<p><b>MEDICAL HISTORY:</b><br/>1.  Arthritis of the right knee.<br/>2.  Hypertension.</p>
+<p><b>PAST SURGICAL HISTORY: </b> Hysterectomy, Cesarean section, left hip arthroplasty, and breast biopsy.</p>
+<p><b>MEDICATIONS: </b> Hyzaar 12.5 mg p.o. daily, Femara 2.5 mg p.o. daily, Fosamax 70 mg p.o. every week, aspirin 81 mg p.o. daily, and vitamin.</p>
+<p><b>ALLERGIES: </b> MORPHINE.</p>
+<p><b>HISTORY OF PRESENT COMPLAINT: </b> This 84-year-old patient with history of arthritis underwent right total knee replacement yesterday.  The patient is admitted today to the surgical floor for postoperative management.  The patient tolerated the procedure well.</p>
+<p><b>REVIEW OF SYSTEMS:</b><br/>CONSTITUTIONAL:  No fever, chills, or malaise.<br/>ENT:  Unremarkable.<br/>RESPIRATORY:  The patient denies shortness of breath, cough, or wheezing.<br/>CARDIOVASCULAR:  No known heart problems.  No orthopnea, palpitations, syncopal episode, or pedal swelling.<br/>GASTROINTESTINAL:  She denies nausea or vomiting.  No history of GI bleed.<br/>GENITOURINARY:  No dysuria, no hematuria.<br/>ENDOCRINE:  Negative for diabetes or thyroid problems.<br/>NEUROLOGICAL:  No history of seizure or TIA.  Cognitive function is intact.</p>
+<p><b>SOCIAL HISTORY:  </b>The patient does not smoke.  She consumes alcohol moderately.</p>
+<p><b>FAMILY HISTORY:  </b>Positive for cancer.</p>
+<p><b>PHYSICAL EXAMINATION:</b><br/>GENERAL:  This is an 84-year-old lady who looks young for her age.<br/>VITAL SIGNS:  Blood pressure of 138/53, pulse is 73, respiratory rate of 20, and O2 saturation is 95% on room air.  She is afebrile.<br/>HEAD AND NECK:  Face is symmetrical.  Cranial nerves are intact.  No distended neck veins.  No palpable neck masses.<br/>CHEST:  Clear to auscultation.  No wheezing.  No crepitations.<br/>CARDIOVASCULAR:  First and second heart sounds were heard.  No murmur is appreciated.<br/>ABDOMEN:  Soft and nontender.  Bowel sounds are positive.<br/>EXTREMITIES:  There is no pedal swelling.</p>
+<p><b>LABORATORY DATA:  </b>Hemoglobin has dropped from 12.6 to 10.2.  Hematocrit is 30.  Glucose is 125.  BUN is 15.9, creatinine is 0.6, sodium is 134, and potassium is 3.8.</p>
+<p><b>ASSESSMENT AND PLAN:</b><br/>1.  Right knee arthritis status post right total knee replacement.  The patient tolerated the procedure well.<br/>2.  Anemia due to stated operative blood loss, would not require transfusion at this point.<br/>3.  Hypertension, under control.  Continue current home medications.<br/>4.  Deep vein thrombosis risk, prophylaxis as per surgeon.<br/>5.  Gastrointestinal prophylaxis.<br/>6.  Debility.  Continue physical therapy and occupational therapy.</p>

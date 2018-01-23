@@ -1,0 +1,8 @@
+Lexiscan Nuclear Scan
+<p><b>EXAM:</b>  Lexiscan Nuclear Myocardial Perfusion Scan.</p>
+<p><b>INDICATION:</b>  Chest pain.</p>
+<p><b>TYPE OF TEST:  </b>Lexiscan, unable to walk on a treadmill.</p>
+<p><b>INTERPRETATION: </b> Resting heart rate of 96, blood pressure of 141/76.  EKG, normal sinus rhythm, nonspecific ST-T changes, left bundle branch block.  Post Lexiscan 0.4 mg injected intravenously by standard protocol.  Peak heart rate was 105, blood pressure of 135/72.  EKG remains the same.  No symptoms are noted.</p>
+<p><b>SUMMARY:</b><br/>1.  Nondiagnostic Lexiscan.<br/>2.  Nuclear interpretation as below.</p>
+<p><b>NUCLEAR MYOCARDIAL PERFUSION SCAN WITH STANDARD PROTOCOL:</b>  Resting and stress images were obtained with 10.4, 32.5 mCi of tetrofosmin injected intravenously by standard protocol.  Myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake.  There is no evidence of reversible or fixed defect.  Gated SPECT revealed mild global hypokinesis, more pronounced in the septal wall possibly secondary to prior surgery.  Ejection fraction calculated at 41%.  End-diastolic volume of 115, end-systolic volume of 68.</p>
+<p><b>IMPRESSION:</b><br/>1.  Normal nuclear myocardial perfusion scan.<br/>2.  Ejection fraction 41% by gated SPECT.</p>

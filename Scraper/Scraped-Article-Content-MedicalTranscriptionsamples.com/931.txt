@@ -1,0 +1,8 @@
+CT Angiography
+<p><b>CT ANGIOGRAPHY CHEST WITH CONTRAST</b></p>
+<p><b>REASON FOR EXAM: </b> Chest pain, shortness of breath and cough, evaluate for pulmonary arterial embolism.</p>
+<p><b>TECHNIQUE:  </b>Axial CT images of the chest were obtained for pulmonary embolism protocol utilizing 100 mL of Isovue-300.</p>
+<p><b>FINDINGS:  </b>There is no evidence for pulmonary arterial embolism.</p>
+<p>The lungs are clear of any abnormal airspace consolidation, pleural effusion, or pneumothorax.  No abnormal mediastinal or hilar lymphadenopathy is seen.</p>
+<p>Limited images of the upper abdomen are unremarkable.  No destructive osseous lesion is detected.</p>
+<p><b>IMPRESSION: </b> Negative for pulmonary arterial embolism.</p>

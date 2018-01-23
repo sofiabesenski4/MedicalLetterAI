@@ -1,0 +1,8 @@
+Gastroscopy – 1
+<p><b>PROCEDURE: </b> Gastroscopy.</p>
+<p><b>PREOPERATIVE DIAGNOSES: </b> Dysphagia, possible stricture.</p>
+<p><b>POSTOPERATIVE DIAGNOSIS: </b> Gastroparesis.</p>
+<p><b>MEDICATION: </b> MAC.</p>
+<p><b>DESCRIPTION OF PROCEDURE: </b> The Olympus gastroscope was introduced into the hypopharynx and passed carefully through the esophagus, stomach, and duodenum.  The hypopharynx was normal.  The esophagus had a normal upper esophageal sphincter, normal contour throughout, and a normal gastroesophageal junction viewed at 39 cm from the incisors.  There was no evidence of stricturing or extrinsic narrowing from her previous hiatal hernia repair.  There was no sign of reflux esophagitis.  On entering the gastric lumen, a large bezoar of undigested food was seen occupying much of the gastric fundus and body.  It had 2 to 3 mm diameter.  This was broken up using a scope into smaller pieces.  There was no retained gastric liquid.  The antrum appeared normal and the pylorus was patent.  The scope passed easily into the duodenum, which was normal through the second portion.  On withdrawal of the scope, additional views of the cardia were obtained, and there was no evidence of any tumor or narrowing.  The scope was withdrawn.  The patient tolerated the procedure well and was sent to the recovery room.</p>
+<p><b>FINAL DIAGNOSES:</b><br/>1.  Normal postoperative hernia repair.<br/>2.  Retained gastric contents forming a partial bezoar, suggestive of gastroparesis.<br/>3.  Otherwise normal upper endoscopy to the descending duodenum.</p>
+<p><b>RECOMMENDATIONS:</b><br/>1.  Continue proton pump inhibitors.<br/>2.  Use Reglan 10 mg three to four times a day.</p>

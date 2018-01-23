@@ -1,0 +1,7 @@
+Echocardiogram
+<p><b>REASON FOR EXAMINATION: </b> Cardiac arrhythmia.</p>
+<p><b>INTERPRETATION: </b> No significant pericardial effusion was identified.</p>
+<p>The aortic root dimensions are within normal limits.  The four cardiac chambers dimensions are within normal limits.  No discrete regional wall motion abnormalities are identified.  The left ventricular systolic function is preserved with an estimated ejection fraction of 60%.  The left ventricular wall thickness is within normal limits.</p>
+<p>The aortic valve is trileaflet with adequate excursion of the leaflets.  The mitral valve and tricuspid valve motion is unremarkable.  The pulmonic valve is not well visualized.</p>
+<p>Color flow and conventional Doppler interrogation of cardiac valvular structures revealed mild mitral regurgitation and mild tricuspid regurgitation with an RV systolic pressure calculated to be 28 mmHg.  Doppler interrogation of the mitral in-flow pattern is within normal limits for age.</p>
+<p><b>IMPRESSION:</b><br/>1.  Preserved left ventricular systolic function.<br/>2.  Mild mitral regurgitation.<br/>3.  Mild tricuspid regurgitation.</p>

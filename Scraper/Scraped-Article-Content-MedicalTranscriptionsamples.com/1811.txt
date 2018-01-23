@@ -1,0 +1,7 @@
+MRI of Brain w/o Contrast.
+<p><b>EXAM: </b> MRI of the brain without contrast.</p>
+<p><b>HISTORY: </b> Daily headaches for 6 months in a 57-year-old.</p>
+<p><b>TECHNIQUE:  </b>Noncontrast axial and sagittal images were acquired through the brain in varying degrees of fat and water weighting.</p>
+<p><b>FINDINGS: </b> The brain is normal in signal intensity and morphology for age.  There are no extraaxial fluid collections.  There is no hydrocephalus/midline shift.  Posterior fossa, 7th and 8th nerve complexes and intraorbital contents are within normal limits.  The normal vascular flow volumes are maintained.  The paranasal sinuses are clear.</p>
+<p>Diffusion images demonstrate no area of abnormally restricted diffusion that suggests acute infarct.</p>
+<p><b>IMPRESSION: </b> Normal MRI brain.  Specifically, no findings to explain the patient’s headaches are identified.</p>

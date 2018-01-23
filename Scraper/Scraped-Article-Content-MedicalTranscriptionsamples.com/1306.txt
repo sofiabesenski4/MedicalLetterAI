@@ -1,0 +1,9 @@
+CT Abdomen & Pelvis -1
+<p><b>EXAM: </b> CT Abdomen and Pelvis with contrast </p>
+<p><b>REASON FOR EXAM:</b> Nausea, vomiting, diarrhea for one day.  Fever.  Right upper quadrant pain for one day.  </p>
+<p><b>COMPARISON: </b> None. </p>
+<p><b>TECHNIQUE:</b>  CT of the abdomen and pelvis performed without and with approximately 54 ml Isovue 300 contrast enhancement.  </p>
+<p><b>CT ABDOMEN: </b> Lung bases are clear.  The liver, gallbladder, spleen, pancreas, and bilateral adrenal/kidneys are unremarkable.  The aorta is normal in caliber.  There is no retroperitoneal lymphadenopathy.  </p>
+<p><b>CT PELVIS: </b> The appendix is visualized along its length and is diffusely unremarkable with no surrounding inflammatory change.  Per CT, the colon and small bowel are unremarkable.  The bladder is distended.  No free fluid/air.  Visualized osseous structures demonstrate no definite evidence for acute fracture, malalignment, or dislocation.</p>
+<p><b>IMPRESSION:</b><br/>1.  Unremarkable exam; specifically no evidence for acute appendicitis. <br/>2.  No acute nephro-/ureterolithiasis. <br/>3.  No secondary evidence for acute cholecystitis.</p>
+<p>Results were communicated to the ER at the time of dictation.</p>

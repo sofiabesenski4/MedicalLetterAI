@@ -1,0 +1,8 @@
+Hepatobiliary Scan
+<p><b>NUCLEAR MEDICINE HEPATOBILIARY SCAN</b></p>
+<p><b>REASON FOR EXAM: </b> Right upper quadrant pain.</p>
+<p><b>COMPARISONS:  </b>CT of the abdomen dated 02/13/09 and ultrasound of the abdomen dated 02/13/09.</p>
+<p>Radiopharmaceutical 6.9 mCi of Technetium-99m Choletec.</p>
+<p><b>FINDINGS:</b>  Imaging obtained up to 30 minutes after the injection of radiopharmaceutical shows a normal hepatobiliary transfer time.  There is normal accumulation within the gallbladder.</p>
+<p>After the injection of 2.1 mcg of intravenous cholecystic _______, the gallbladder ejection fraction at 30 minutes was calculated to be 32% (normal is greater than 35%).  The patient experienced 2/10 pain at 5 minutes after the injection of the radiopharmaceutical and the patient also complained of nausea.</p>
+<p><b>IMPRESSION:</b><br/>1.  Negative for acute cholecystitis or cystic duct obstruction.<br/>2.  Gallbladder ejection fraction just under the lower limits of normal at 32% that can be seen with very mild chronic cholecystitis.</p>

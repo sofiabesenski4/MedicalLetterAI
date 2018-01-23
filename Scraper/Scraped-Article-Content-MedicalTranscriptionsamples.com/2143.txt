@@ -1,0 +1,15 @@
+Discharge Summary – 5
+<p><strong>DATE OF ADMISSION:</strong> MM/DD/YYYY.</p>
+<p><strong>DATE OF DISCHARGE: </strong>MM/DD/YYYY.</p>
+<p><strong>REFERRING PHYSICIAN: </strong>AB CD, M.D.</p>
+<p><strong>ATTENDING PHYSICIAN AT DISCHARGE:</strong> X Y, M.D.</p>
+<p><strong>ADMITTING DIAGNOSES:</strong><br/>
+1. Ewing sarcoma.<br/>
+2. Anemia.<br/>
+3. Hypertension.<br/>
+4. Hyperkalemia.</p>
+<p><strong>PROCEDURES DURING HOSPITALIZATION: </strong>Cycle seven Ifosfamide, mesna, and VP-16 chemotherapy.</p>
+<p><strong>HISTORY OF PRESENT ILLNESS: </strong>Ms. XXX is a pleasant 37-year-old African-American female with the past medical history of Ewing sarcoma, iron deficiency anemia, hypertension, and obesity. She presented initially with a left frontal orbital swelling to Dr. XYZ on MM/DD/YYYY. A biopsy revealed small round cells and repeat biopsy on MM/DD/YYYY also showed round cells consistent with Ewing sarcoma, genetic analysis indicated a T1122 translocation. MRI on MM/DD/YYYY showed a 4 cm soft tissue mass without bony destruction. CT showed similar result. The patient received her first cycle of chemotherapy on MM/DD/YYYY. On MM/DD/YYYY, she was admitted to the ED with nausea and vomitting and was admitted to the Hematology and Oncology A Service following her first course of chemotherapy. She had her last course of chemotherapy on MM/DD/YYYY followed by radiation treatment to the ethmoid sinuses on MM/DD/YYYY.</p>
+<p><strong>HOSPITAL COURSE: </strong><br/>
+1. Ewing sarcoma, she presented for cycle seven of VP-16, ifosfamide, and mesna infusions, which she tolerated well throughout the admission.<br/>
+2. She was followed for hemorrhagic cystitis with urine dipsticks and only showed trace amounts of blood in the urine throughout the admission.</p>

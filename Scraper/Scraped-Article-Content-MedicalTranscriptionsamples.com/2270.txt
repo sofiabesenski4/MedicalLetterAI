@@ -1,0 +1,8 @@
+Diagnostic Mammogram
+<p><b>EXAM: </b> Bilateral diagnostic mammogram and right breast ultrasound.</p>
+<p>History of palpable abnormality at 10 o’clock in the right breast.  Family history of a sister with breast cancer at age 43.</p>
+<p><b>TECHNIQUE: </b> CC and MLO views of both breasts were obtained.  Spot compression views of the palpable area were also obtained.  Right breast ultrasound was performed.  Comparison is made with mm/dd/yy.</p>
+<p><b>FINDINGS: </b> The breast parenchymal pattern is stable with heterogeneous scattered areas of fibroglandular tissue.  No new mass or architectural distortion is evident.  Asymmetric density in the upper outer posterior left breast and a nodule in the upper outer right breast are unchanged.  There is no suspicious cluster of microcalcifications.</p>
+<p>Directed ultrasonography of the upper outer quadrant of the right breast revealed no cystic or hypoechoic solid mass.</p>
+<p><b>IMPRESSION:</b><br/>1.  Stable mammographic appearance from mm/dd/yy.<br/>2.  No sonographic evidence of a mass at 10 o’clock in the right breast to correspond to the palpable abnormality.  The need for further assessment of a palpable abnormality should be determined clinically.</p>
+<p>BIRADS Classification 2 – Benign</p>

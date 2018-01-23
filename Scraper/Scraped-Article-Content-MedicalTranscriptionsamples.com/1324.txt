@@ -1,0 +1,7 @@
+MRI Head
+<p><b>EXAM:</b>  MRI Head W&amp;WO Contrast.</p>
+<p><b>REASON FOR EXAM:</b>  Dyspnea.</p>
+<p><b>COMPARISON:</b>  None. </p>
+<p><b>TECHNIQUE:</b>  MRI of the head performed without and with 12 ml of IV gadolinium (Magnevist).  </p>
+<p><b>INTERPRETATION: </b> There are no abnormal/unexpected foci of contrast enhancement.  There are no diffusion weighted signal abnormalities.  There are minimal, predominantly periventricular, deep white matter patchy foci of FLAIR/T2 signal hyperintensity, the rest of the brain parenchyma appearing unremarkable in signal.  The ventricles and sulci are prominent, but proportionate.  Per T2 weighted sequence, there is no hyperdense vascularity.  There are no calvarial signal abnormalities.  There is no significant mastoid air cell fluid.  No significant sinus mucosal disease per MRI.</p>
+<p><b>IMPRESSION:</b><br/>1.  No abnormal/unexpected foci of contrast enhancement; specifically, no evidence for metastases or masses.  <br/>2.  No evidence for acute infarction. <br/>3.  Mild, scattered, patchy, chronic small vessel ischemic disease changes. <br/>4.  Diffuse cortical volume loss, consistent with patient’s age. <br/>5.  Preliminary report was issued at the time of dictation.  </p>

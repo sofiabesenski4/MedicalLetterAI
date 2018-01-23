@@ -1,0 +1,42 @@
+Ultrasound OB – 3
+<p>This is a 37 year-old female with twin pregnancy with threatened premature labor.</p>
+<p><b>GENERAL EVALUATION: </b>Twin B</p>
+<p>Fetal Cardiac Activity: Normal at 166 BPM</p>
+<p>Fetal Lie: Longitudinal, to the maternal right.</p>
+<p>Fetal Presentation: Cephalic.</p>
+<p>Placenta: Fused, posterior placenta, Grade I to II.</p>
+<p>Uterus: Normal</p>
+<p>Cervix: Closed.</p>
+<p>Adnexa: Not seen</p>
+<p>Amniotic Fluid: AFI 5.5cm in a single AP pocket.</p>
+<p><b>BIOMETRY:</b><br/>BPD: 7.9cm consistent with 31weeks, 5 days gestation</p>
+<p>HC: 31.1cm consistent with 33 weeks, 3 days gestation</p>
+<p>AC: 30.0cm consistent with 34 weeks, 0 days gestation</p>
+<p>FL:   6.4cm consistent with 33 weeks, 1 day gestation</p>
+<p>CI (BPD/OFD): 77 (70-86)</p>
+<p>FL/BPD:   81   (71-87)</p>
+<p>FL/HC:      21.3     (19.9-21.5)</p>
+<p>FL/AC     21 (20-24)</p>
+<p>HC/AC:      1.00     (0.96-1.11)</p>
+<p>GESTATIONAL AGE BY CURRENT ULTRASOUND:   33 weeks, 0 days +/- 2 weeks, 2 days FETAL WEIGHT BY CURRENT ULTRASOUND: 2194 gms (4 lbs 13 oz) = 6th percentile EDD BY CURRENT ULTRASOUND:   07/30/07</p>
+<p>GESTATIONAL AGE BY DATES:   35 weeks, 5 days</p>
+<p>L M P: Not given.</p>
+<p>EDD BY DATES:   07/11/07</p>
+<p>GESTATIONAL AGE BY PREVIOUS ULTRASOUND:   35 weeks, 2 days DATE OF PREVIOUS ULTRASOUND: 04/20/07 EDD BY PREVIOUS ULTRASOUND:   07/13/07</p>
+<p><b>FETAL ANATOMY:</b><br/>Fetal Ventricles: Normal</p>
+<p>Fetal Cerebellum: Normal</p>
+<p>Fetal Cranium: Normal</p>
+<p>Fetal Face: Normal Nose and Mouth</p>
+<p>Fetal Heart (4 Chamber View): Normal</p>
+<p>Fetal Diaphragm: Normal</p>
+<p>Fetal Stomach: Normal</p>
+<p>Fetal Cord: Normal three vessel cord, there is a nuchal cord</p>
+<p>Fetal Abdominal Wall: Normal</p>
+<p>Fetal Spine: Normal</p>
+<p>Fetal Kidneys: Normal</p>
+<p>Fetal Bladder: Normal</p>
+<p>Fetal Limbs: Normal</p>
+<p><b>IMPRESSION:</b><br/>Monochorionic diamniotic twin pregnancy.</p>
+<p>Twin B is small for gestational age and equivalent to twin A (size and dates as detailed above).</p>
+<p>Nuchal cord.</p>
+<p>Low amniotic fluid volume.</p>

@@ -1,0 +1,16 @@
+CT Lumbar Spine – 1
+<p>This is a middle-aged female with low back pain radiating down the left leg and foot for one and a half years.</p>
+<p><b>FINDINGS:</b><br/>High resolution computerized tomography was performed from T12-L1 to the S1 level with reformatted images in the sagittal and coronal planes and 3D reconstructions performed. COMPARISON: Previous MRI examination 10/13/2004.</p>
+<p>There is minimal curvature of the lumbar spine convex to the left.</p>
+<p>T12-L1, L1-2, L2-3: There is normal disc height with no posterior annular disc bulging or protrusion. Normal central canal, intervertebral neural foramina and facet joints.</p>
+<p>L3-4: There is normal disc height and non-compressive circumferential annular disc bulging eccentrically greater to the left. Normal central canal and facet joints (image #255).</p>
+<p>L4-5: There is normal disc height, circumferential annular disc bulging, left L5 hemilaminectomy and posterior central/right paramedian broad-based disc protrusion measuring 4mm (AP) contouring the rightward aspect of the thecal sac. Orthopedic hardware is noted posteriorly at the L5 level. Normal central canal, facet joints and intervertebral neural foramina (image #58).</p>
+<p>L5-S1: There is minimal decreased disc height, postsurgical change with intervertebral disc spacer, posterior lateral orthopedic hardware with bilateral pedicle screws in good postsurgical position. The orthopedic hardware creates mild streak artifact which mildly degrades images. There is a laminectomy defect, spondylolisthesis with 3.5mm of anterolisthesis of L5, posterior annular disc bulging greatest in the left foraminal region lying adjacent to the exiting left L5 nerve root. There is fusion of the facet joints, normal central canal and right neural foramen (image #69-70, 135).</p>
+<p>There is no bony destructive change noted.</p>
+<p>There is no perivertebral soft tissue abnormality.</p>
+<p>There is minimal to mild arteriosclerotic vascular calcifications noted in the abdominal aorta and right proximal common iliac artery.</p>
+<p><b>IMPRESSION:</b><br/>Minimal curvature of the lumbar spine convex to the left.</p>
+<p>L3-4 posterior non-compressive annular disc bulging eccentrically greater to the left.</p>
+<p>L4-5 circumferential annular disc bulging, non-compressive central/right paramedian disc protrusion, left L5 laminectomy.</p>
+<p>L5-S1 postsurgical change with posterolateral orthopedic fusion hardware in good postsurgical position, intervertebral disc spacer, spondylolisthesis, laminectomy defect, posterior annular disc bulging greatest in the left foraminal region adjacent to the exiting left L5 nerve root with questionable neural impingement.</p>
+<p>Minimal to mild arteriosclerotic vascular calcifications.</p>

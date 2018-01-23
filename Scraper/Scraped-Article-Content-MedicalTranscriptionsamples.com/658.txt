@@ -1,0 +1,15 @@
+Normal Female ROS Template
+<p><strong>CONSTITUTIONAL:</strong> Normal; negative for fever, weight change, fatigue, or aching.<br/>
+<strong>HEENT:</strong> Eyes normal; Negative for glasses, cataracts, glaucoma, retinopathy, irritation, or visual field defects. Ears normal; Negative for hearing or balance problems. Nose normal; Negative for runny nose, sinus problems, or nosebleeds. Mouth normal; Negative for dental problems, dentures, or bleeding gums. Throat normal; Negative for hoarseness, difficulty swallowing, or sore throat.<br/>
+<strong>CARDIOVASCULAR:</strong> Normal; Negative for angina, previous MI, irregular heartbeat, heart murmurs, bad heart valves, palpitations, swelling of feet, high blood pressure, orthopnea, paroxysmal nocturnal dyspnea, or history of stress test, arteriogram, or pacemaker implantation.<br/>
+<strong>PULMONARY: </strong>Normal; Negative for cough, sputum, shortness of breath, wheezing, asthma, or emphysema.<br/>
+<strong>GASTROINTESTINAL: </strong>Normal; Negative for pain, vomiting, heartburn, peptic ulcer disease, change in stool, rectal pain, hernia, hepatitis, gallbladder disease, hemorrhoids, or bleeding.<br/>
+<strong>GENITOURINARY:</strong> Normal female OR male; Negative for incontinence, UTI, dysuria, hematuria, vaginal discharge, abnormal bleeding, breast lumps, nipple discharge, skin or nipple changes, sexually transmitted diseases, incontinence, yeast infections, or itching.<br/>
+<strong>SKIN: </strong>Normal; Negative for rashes, keratoses, skin cancers, or acne.<br/>
+<strong>MUSCULOSKELETAL: </strong>Normal; Negative for back pain, joint pain, joint swelling, arthritis, joint deformity, problems with ambulation, stiffness, osteoporosis, or injuries.<br/>
+<strong>NEUROLOGIC: </strong>Normal; Negative for blackouts, headaches, seizures, stroke, or dizziness.<br/>
+<strong>PSYCHIATRIC: </strong>Normal; Negative for anxiety, depression, or phobias.<br/>
+<strong>ENDOCRINE:</strong> Normal; Negative for diabetes, thyroid, or problems with cholesterol or hormones.<br/>
+<strong>HEMATOLOGIC/LYMPHATIC: </strong>Normal; Negative for anemia, swollen glands, or blood disorders.<br/>
+<strong>IMMUNOLOGIC: </strong>Negative; Negative for steroids, chemotherapy, or cancer.<br/>
+<strong>VASCULAR:</strong> Normal; Negative for varicose veins, blood clots, atherosclerosis, or leg ulcers.</p>

@@ -1,0 +1,11 @@
+Dental Pain
+<p><b>CHIEF COMPLAINT:</b>  Dental pain.</p>
+<p><b>HISTORY OF PRESENT ILLNESS:</b>  This is a 27-year-old female who presents with a couple of days history of some dental pain.  She has had increasing swelling and pain to the left lower mandible area today.  Presents now for evaluation.</p>
+<p><b>PAST MEDICAL HISTORY: </b> Remarkable for chronic back pain, neck pain from a previous cervical fusion, and degenerative disc disease.  She has chronic pain in general and is followed by Dr. X.</p>
+<p><b>REVIEW OF SYSTEMS: </b> Otherwise, unremarkable.  Has not noted any fever or chills.  However she, as mentioned, does note the dental discomfort with increasing swelling and pain.  Otherwise, unremarkable except as noted.</p>
+<p><b>CURRENT MEDICATIONS: </b> Please see list.</p>
+<p><b>ALLERGIES: </b> IODINE, FISH OIL, FLEXERIL, BETADINE.</p>
+<p><b>PHYSICAL EXAMINATION: </b> VITAL SIGNS:  The patient was afebrile, has stable and normal vital signs.  The patient is sitting quietly on the gurney and does not look to be in significant distress, but she is complaining of dental pain.  HEENT:  Unremarkable.  I do not see any obvious facial swelling, but she is definitely tender all in the left mandible region.  There is no neck adenopathy.  Oral mucosa is moist and well hydrated.  Dentition looks to be in reasonable condition.  However, she definitely is tender to percussion on the left lower first premolar.  I do not see any huge cavity or anything like that.  No real significant gingival swelling and there is no drainage noted.  None of the teeth are tender to percussion.</p>
+<p><b>PROCEDURE:</b>  Dental nerve block.  Using 0.5% Marcaine with epinephrine, I performed a left inferior alveolar nerve block along with an apical nerve block, which achieves good anesthesia.  I have then written a prescription for penicillin and Vicodin for pain.</p>
+<p><b>IMPRESSION: </b> ACUTE DENTAL ABSCESS.</p>
+<p><b>ASSESSMENT AND PLAN:  </b>The patient needs to follow up with the dentist for definitive treatment and care.  She is treated symptomatically at this time for the pain with a dental block as well as empirically with antibiotics.  However, outpatient followup should be adequate.  She is discharged in stable condition.</p>

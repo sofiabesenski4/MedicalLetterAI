@@ -1,0 +1,11 @@
+Ultrasound – Kidney
+<p><b>EXAM: </b> AP abdomen and ultrasound of kidney.</p>
+<p><b>HISTORY:</b>  Ureteral stricture.</p>
+<p><b>AP ABDOMEN </b></p>
+<p><b>FINDINGS:</b>  Comparison is made to study from Month DD, YYYY.  There is a left lower quadrant ostomy.  There are no dilated bowel loops suggesting obstruction.  There is a double-J right ureteral stent, which appears in place.  There are several pelvic calcifications, which are likely vascular.  No definite pathologic calcifications are seen overlying the regions of the kidneys or obstructing course of the ureters.  Overall findings are stable versus most recent exam.</p>
+<p><b>IMPRESSION: </b> Properly positioned double-J right ureteral stent.  No evidence for calcified renal or ureteral stones.</p>
+<p><b>ULTRASOUND KIDNEYS</b></p>
+<p><b>FINDINGS:</b>  The right kidney is normal in cortical echogenicity of solid mass, stone, hydronephrosis measuring 9.0 x 2.9 x 4.3 cm.  There is a right renal/ureteral stent identified.  There is no perinephric fluid collection.</p>
+<p>The left kidney demonstrates moderate-to-severe hydronephrosis.  No stone or solid masses seen.  The cortex is normal.</p>
+<p>The bladder is decompressed.</p>
+<p><b>IMPRESSION:</b><br/>1.  Left-sided hydronephrosis.<br/>2.  No visible renal or ureteral calculi.<br/>3.  Right ureteral stent.</p>

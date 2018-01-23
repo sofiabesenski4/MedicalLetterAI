@@ -1,0 +1,7 @@
+Stress Test Dobutrex
+<p><b>INDICATIONS:</b>     Abnormal EKG.</p>
+<p><b>STRESS TECHNIQUE:</b>   Dobutrex was infused at 10 µg/kg/minute increasing in three-minute intervals.  Maximum heart rate was 113.  No significant EKG changes noted.</p>
+<p><b>NARRATIVE:</b>  Uptake of radioisotope was adequate in all views.  There was an inferior abnormality noted in the short axis view from 4:00-6:30.  In the vertical long axis view, there was an inferior abnormality with minimal improvement.  The horizontal long axis view had a lateral apical abnormality with no change.</p>
+<p><b>WALL MOTION:</b>  The left ventricle was of normal size and motion.  All wall segments moved normally.</p>
+<p><b>EJECTION FRACTION:</b>  72%.</p>
+<p><b>CONCLUSIONS:</b><br/>1.  Negative Dobutrex stress test.<br/>2.  Normal wall motion and ejection fraction.<br/>3.  Abnormal nuclear scan consistent with possible underlying ischemic heart disease.  Clinical correlation suggested.</p>
