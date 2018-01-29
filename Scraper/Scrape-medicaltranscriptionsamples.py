@@ -1,6 +1,17 @@
 #Scrape-MTSamples.py is a script which will iterate through all ~300 something pages of 
 #MedicalTranscriptions.com to get all the sample medical transcripts stored in its blog posts
-# and save them into individual text files in a folder where this sript is located on disk
+# and save them into individual text files in a folder where this script is located on disk
+
+#This script is website specific, and cannot be applied directly to other websites, although. the concepts here
+#can be applied to other web scrapers.
+#
+
+"""
+Author: Thomas Besenski
+Date: Jan 23 2018
+
+
+"""
 from queue import *
 import datetime
 import random
@@ -18,14 +29,15 @@ PSEUDOCODE:
 -while the URL response delivers a url that we requested (we didnt hit the end of the list of pages) 
 
 	-Use the httpresponse to build a BS object
-	-Go into the body of the BS object
-	-For every link in the body that we have not encountered
-		-go into the link
-		-break it into a BSobject
-		-go into the body
-		-Find the part of the text that we want
-		-save it to an external text file in  folder
+	-Go into the content class contained within the html file
+	-For every link in the content div that we have not encountered, add it to a list of article urls
+	
+-for every url in the list of urls:
+	-follow the link
+	-get the title of the article (h1 tag)
+	-get the contents of the article (post-content tag)
 
+	-save the text contained in the article into a text file
 
 """
 
@@ -36,7 +48,7 @@ def getResponse(url):
     try: 
         #print ("url =  " +url)
         response = urllib.request.urlopen(url)
-        #DEBUG SHIT
+        #DEBUG
         #print ("This is the url of the html file we requested: " + url)
         #print ("this is the url of the response reached: " + response.geturl())
         return response
@@ -45,22 +57,35 @@ def getResponse(url):
         return None
 
 
+"""
+Function: append_sample_links(HTTPResponse object, list or urls)
+output: will return a reference to the sample_url list containing an updated list of urls to article pages
 
+Note: you do not need to explicitly return a reference to the sample_url since the parameter is pass by reference
+but I did it anyway to increase readability.
+"""
 def append_sample_links(response, sample_urls):
+	#make a BS object to parse the html page
 	soup = BeautifulSoup(response, "html.parser")
-	#url_pattern = re.compile(r'www.medicaltranscriptionsamples.com/(.*)/$')
-	#contents_pattern = re.compile(r"Read more...")
+	
+	#find all the divs which contain the class "type-post"
 	for element in soup.body.find_all(class_="type-post"):	
+		#for every link contained within the type-post div
 		for link in element.find_all("a"):
-			#now we are looking at the links within posts
+			#if the link is an external reference
 			if "href" in link.attrs:
-				#print(link.attrs["href"])	
+				#if the link has not already been recorded, add it to the list or urls
 				if link.attrs['href'] not in sample_urls:
 					sample_urls.append(link.attrs["href"])
 	return sample_urls
 	
-	
+"""
+function: get_article_text(article number/number of article encountered, url of new article to be processed)
+output:none
+side-effects: will create a text file storing the content of an article, named the integer specified first-input-parameter.txt
+"""	
 def get_article_text(article_num, url):
+	#create new text file for this article
 	fp = open("Scraped-Article-Content-MedicalTranscriptionsamples.com/" + str(article_num) + ".txt", "w")
 	# open the folder called Scraped-Article-Content-MedicalTranscriptionsamples.com in the pwd
 	response = getResponse(url)
@@ -76,11 +101,9 @@ def get_article_text(article_num, url):
 	
 	#regex: re.findall(r'<p>(.*)</p>', 
 def main():
-	
 	"""
 	This part of the function gets all the sample_urls
 	"""
-	
 	url_format = "http://www.medicaltranscriptionsamples.com/page/"
 	i=1
 	sample_urls = []
@@ -88,12 +111,14 @@ def main():
 	while True:
 		url = url_format + str(i)
 		response = getResponse(url)
+		#if the response we get from trying to access another page of the website returns a page not found, then
+		#we know that there is no more pages to be scraped
 		if response.geturl() == "http://www.medicaltranscriptionsamples.com/my404/":
 			break 
 		append_sample_links(response,sample_urls)
 		i+=1
 		
-	#print (sample_urls)
+	#for every sample url in the list, process it and save certain contents to an external file
 	for x, sample_url in enumerate(sample_urls):
 		get_article_text(x, sample_url)
 		
