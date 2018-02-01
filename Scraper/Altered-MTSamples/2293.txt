@@ -1,0 +1,5 @@
+Arterial Imaging
+<p><b>INDICATIONS:</b>  Peripheral vascular disease with claudication.</p>
+<p><b>RIGHT:</b> <br/>1.  Normal arterial imaging of right lower extremity.<br/>2.  Peak systolic velocity is normal.<br/>3.  Arterial waveform is triphasic.<br/>4.  Ankle brachial index is 0.96.</p>
+<p><b>LEFT:</b><br/>1.  Normal arterial imaging of left lower extremity.<br/>2.  Peak systolic velocity is normal.<br/>3.  Arterial waveform is triphasic throughout except in posterior tibial artery where it is biphasic.<br/>4.  Ankle brachial index is 1.06.</p>
+<p><b>IMPRESSION</b>:<br/>Normal arterial imaging of both lower extremities.</p>

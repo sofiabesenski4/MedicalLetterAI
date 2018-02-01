@@ -1,0 +1,12 @@
+Headache – Urgent Care Visit
+<p><b>CC: </b> Headache.</p>
+<p><b>HPI: </b> This is a 15-year-old girl presenting with occipital headache for the last six hours.  She denies trauma.  She has been intermittently nauseated but has not vomited and has some photophobia.  Denies fever or change in vision.  She has no past history of headaches.  </p>
+<p><b>PMH: </b> None. </p>
+<p><b>MEDICATIONS:  </b>Tylenol for pain.</p>
+<p><b>ALLERGIES:</b>  None.</p>
+<p><b>FAMILY HISTORY: </b> Grandmother died of cerebral aneurysm.  </p>
+<p><b>ROS:</b>  Negative.</p>
+<p><b>PHYSICAL EXAM:  </b><br/>Vital Signs:  BP 102/60 P 70 RR 20 T 98.2 <br/>HEENT:  Throat is clear, nasopharynx clear, TMs clear, there is no lymphadenopathy, no tenderness to palpations, sinuses nontender. <br/>Neck:  Supple without meningismus. <br/>Chest:  Lungs clear; heart regular without murmur.</p>
+<p><b>COURSE IN THE ED: </b> The patient was seen in the urgent care and examined.  At this time, her photophobia and nausea make migraine highly likely.  She is well appearing and we’ll try Tylenol with codeine for her pain.  One day off school and follow up with her primary doctor.  </p>
+<p><b>IMPRESSION: </b> Migraine headache.  </p>
+<p><b>PLAN: </b> See above.</p>

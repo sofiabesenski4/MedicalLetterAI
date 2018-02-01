@@ -1,0 +1,12 @@
+Exercise Stress Test
+<p><strong>INDICATION: </strong>Chest pain.</p>
+<p><strong>INTERPRETATION: </strong>Resting heart rate of 71, blood pressure 100/60. EKG normal sinus rhythm. The patient exercised on Bruce for 8 minutes on stage III. Peak heart rate was 151, which is 87% of the target heart rate, blood pressure of 132/54. Total METs was 10.1. EKG revealed nonspecific ST depression in inferior and lateral leads. The test was terminated because of fatigue. The patient did have chest pain during exercise that resolved after termination of the exercise.</p>
+<p><strong>IN SUMMARY:</strong><br/>
+1. Positive exercise ischemia with ST depression 0.5 mm.<br/>
+2. Chest pain resolved after termination of exercise.<br/>
+3. Good exercise duration, tolerance and double product.</p>
+<p><strong>NUCLEAR INTERPRETATION:</strong><br/>
+Resting and stress images were obtained with 10.1 mCi and 34.1 mCi of tetraphosphate injected intravenously by standard protocol. Nuclear myocardial perfusion scan demonstrates homogenous and uniform distribution with tracer uptake without any evidence of reversible or fixed defect. Gated SPECT revealed normal wall motion, ejection fraction of 68%. End-diastolic volume of 77, end-systolic volume of 24.</p>
+<p><strong>IN SUMMARY:</strong><br/>
+1. Normal nuclear myocardial perfusion scan.<br/>
+2. Ejection fraction of 68% by gated SPECT.</p>

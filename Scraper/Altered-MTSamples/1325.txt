@@ -1,0 +1,4 @@
+CT Head
+<p><b>TECHNIQUE: </b> Sequential axial CT images were obtained from the vertex to the skull base without contrast.</p>
+<p><b>FINDINGS: </b> There is mild generalized atrophy.  Scattered patchy foci of decreased attenuation are seen within the sub cortical and periventricular white matter compatible with chronic small vessel ischemic changes.  The brain parenchyma is otherwise normal in attenuation with no evidence of mass, hemorrhage, midline shift, hydrocephalus, extra-axial fluid, or acute infarction.  The visualized paranasal sinuses and mastoid air cells are clear.  The bony calvarium and skull base are within normal limits.  </p>
+<p><b>IMPRESSION: </b> No acute abnormalities.</p>

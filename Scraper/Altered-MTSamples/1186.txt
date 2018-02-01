@@ -1,0 +1,6 @@
+CT Head – 1
+<p><b>EXAM:</b>  CT head.</p>
+<p><b>REASON FOR EXAM:</b>  Seizure disorder.</p>
+<p><b>TECHNIQUE:</b>  Noncontrast CT head.</p>
+<p><b>FINDINGS: </b> There is no evidence of an acute intracranial hemorrhage or infarction.  There is no midline shift, intracranial mass, or mass effect.  There is no extra-axial fluid collection or hydrocephalus.  Visualized portions of the paranasal sinuses and mastoid air cells appear clear aside from mild right frontal sinus mucosal thickening.</p>
+<p><b>IMPRESSION:</b>  No acute process in the brain.</p>

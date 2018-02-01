@@ -1,0 +1,8 @@
+Stress Test Bruce Protocol
+<p><b>PROTOCOL:</b>  Bruce.</p>
+<p><b>PERTINENT MEDICATION: </b> None.</p>
+<p><b>REASON FOR TEST:</b>  Chest pain.</p>
+<p><b>PROCEDURE AND INTERPRETATION: </b><br/>1.  Baseline heart rate:  67.<br/>2.  Baseline blood pressure:  150/86.<br/>3.  Total time:  6 minute 51 seconds.<br/>4.  METs:  10.1.<br/>5.  Peak heart rate:  140.<br/>6.  Percent of maximum-predicted heart rate:  90.<br/>7.  Peak blood pressure:  200/92.<br/>8.  Reason test terminated:  Shortness of breath and fatigue.<br/>9.  Estimated aerobic capacity:  Average.<br/>10. Heart rate response:  Normal.<br/>11. Blood pressure response:  Hypertensive.<br/>12. ST segment response:  Normal.<br/>13. Chest pain:  None.<br/>14. Symptoms:  None.<br/>15. Arrhythmia:  None.</p>
+<p><b>CONCLUSION:</b><br/>1.  Average aerobic capacity.<br/>2.  Normal heart rate and blood pressure response to exercise.<br/>3.  No symptomatic electrocardiographic evidence of ischemia.</p>
+<p><b>CONDITION: </b> Stable with normal vital signs.</p>
+<p><b>DISPOSITION:  </b>The patient was discharged home and was asymptomatic.</p>

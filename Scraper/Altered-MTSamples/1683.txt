@@ -1,0 +1,7 @@
+CT of Facial Wones w/o Contrast
+<p><b>EXAM:</b>  CT of the facial bones without contrast.</p>
+<p><b>REASON FOR EXAM:</b>  Hit in nose.</p>
+<p><b>COMPARISON EXAM: </b> Plain films of the same date.</p>
+<p><b>TECHNIQUE: </b> Multidetector helicoaxial images were acquired in the axial plane and were reconstructed in bone and soft tissue algorithms for viewing in multiplanar format.</p>
+<p><b>FINDINGS: </b> There is a fracture of the frontal process of the maxilla on both sides with displacement with angulation to the right and very minimal displacement of the distal fragments.  In addition, there is slight comminution of the right nasal bone without displacement.  The bony portion of the nasal septum is intact, although it is bowed to the left.  Soft tissue swelling is seen overlying the left side of the nose.  There is no nasoseptal hematoma.  Moderate mucosal thickening is seen in both maxillary sinuses.  The right maxillary sinus is hypoplastic.  Moderate mucosal thickening is seen in the left ethmoid sinus and marked mucosal thickening in the left sphenoid sinus.  The right sphenoid sinus is hypoplastic.  No abnormality of the orbits is seen.  The imaged portions of the brain are unremarkable.</p>
+<p><b>IMPRESSION:</b><br/>1.  Bilateral fractures of the frontal process of the maxilla and with displacement to the right.<br/>2.  The findings were reported to Dr. Xyz of the emergency room on 04/30/07 at 1715 hours.</p>

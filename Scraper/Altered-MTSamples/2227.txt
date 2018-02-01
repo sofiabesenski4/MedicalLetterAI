@@ -1,0 +1,44 @@
+Ultrasound OB – 5
+<p>This is a 24-year-old pregnant patient to evaluate fetal weight and placental grade.</p>
+<p><b>GENERAL EVALUATION:</b><br/>Fetal Cardiac Activity: Normal with a heart rate of 135BPM</p>
+<p>Fetal Presentation: Cephalic.</p>
+<p>Placenta: Anterior</p>
+<p>Placentral grade: II</p>
+<p>Previa: ? None.</p>
+<p>Amniotic Fluid: 1.5 + 2.5 + 0.0 + 0.0 = 4cm compatible with oligohydramnios.</p>
+<p><b>BIOMETRY:</b><br/>BPD: 9.0cm consistent with 36weeks, 4days gestation</p>
+<p>HC: 34.6cm which equals 40weeks and 1day gestational age.</p>
+<p>FL: 6.9cm which equals 35weeks and 3days gestational age.</p>
+<p>AC: 34.6cm which equals 38weeks and 4days gestational age.</p>
+<p>CI (BPD/OFD):  (70-86) 73</p>
+<p>FL/BPD: (71-87) 77</p>
+<p>FL/HC: (20.8-22.6) 19.9</p>
+<p>FL/AC (20-24) 20</p>
+<p>HC/AC: (0.92-1.05) 1.00</p>
+<p>GESTATIONAL AGE BY CURRENT ULTRASOUND: 37weeks 4days.</p>
+<p>FETAL WEIGHT BY CURRENT ULTRASOUND: 3289grams (7pounds 4ounces).</p>
+<p>ESTIMATED FETAL WEIGHT PERCENTILE: 24%.</p>
+<p>EDD BY CURRENT ULTRASOUND: 06/04/07.</p>
+<p>GESTATIONAL AGE BY DATES: 40weeks 0days.</p>
+<p>L M P: Unknown.</p>
+<p>EDD BY DATES: 05/18/07.</p>
+<p>DATE OF PREVIOUS ULTRASOUND: 03/05/07.</p>
+<p>EDD BY PREVIOUS ULTRASOUND: 05/24/07.</p>
+<p><b>FETAL ANATOMY:</b><br/>Fetal Ventricles: Normal</p>
+<p>Fetal Cerebellum: Normal</p>
+<p>Fetal Cranium: Normal</p>
+<p>Fetal Face: Normal Nose and Mouth</p>
+<p>Fetal Heart (4 Chamber View): Normal</p>
+<p>Fetal Diaphragm: Normal</p>
+<p>Fetal Stomach: Normal</p>
+<p>Fetal Cord: Normal three-vessel cord</p>
+<p>Fetal Abdominal Wall: Normal</p>
+<p>Fetal Spine: Normal</p>
+<p>Fetal Kidneys: Normal</p>
+<p>Fetal Bladder: Normal</p>
+<p>Fetal Limbs: Normal</p>
+<p><b>IMPRESSION:</b><br/>Active intrauterine pregnancy with a sonographic gestational age of 37weeks and 4days.</p>
+<p>AFI=4cm compatible with mild oligohydramnios.</p>
+<p>Fetal weight equals 3289grams (7pounds 4ounces). EFW percentile is 24%.</p>
+<p>Placental grade is II.</p>
+<p>No evidence of gross anatomical abnormality, with a biophysical profile total equal to 8 out of 8.</p>

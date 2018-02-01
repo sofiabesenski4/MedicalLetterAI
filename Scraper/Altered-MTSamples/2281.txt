@@ -1,0 +1,9 @@
+Ultrasound OB – 1
+<p><b>EXAM: </b> OB Ultrasound.</p>
+<p><b>HISTORY:</b>  A 29-year-old female requests for size and date of pregnancy.</p>
+<p><b>FINDINGS: </b> A single live intrauterine gestation in the cephalic presentation, fetal heart rate is measured 147 beats per minute.  Placenta is located posteriorly, grade 0 without previa.  Cervical length is 4.2 cm.  There is normal amniotic fluid index of 12.2 cm.  There is a 4-chamber heart.  There is spontaneous body/limb motion.  The stomach, bladder, kidneys, cerebral ventricles, heel, spine, extremities, and umbilical cord are unremarkable.</p>
+<p><b>BIOMETRIC DATA:</b><br/>BPD = 7.77 cm = 31 weeks, 1 day<br/>HC = 28.26 cm = 31 weeks, 1 day<br/>AC = 26.63 cm = 30 weeks, 5 days<br/>FL = 6.06 cm = 31 weeks, 4 days</p>
+<p>Composite sonographic age 30 weeks 6 days plus minus 17 days.</p>
+<p><b>ESTIMATED DATE OF DELIVERY: </b> Month DD, YYYY.</p>
+<p>Estimated fetal weight is 3 pounds 11 ounces plus or minus 10 ounces.</p>
+<p><b>IMPRESSION: </b> Single live intrauterine gestation without complications as described.</p>

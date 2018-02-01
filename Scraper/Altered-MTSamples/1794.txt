@@ -1,0 +1,8 @@
+Coronary CT Angiography (CCTA) – 3
+<p><b>EXAM: </b> Coronary artery CTA with calcium scoring and cardiac function.</p>
+<p><b>HISTORY: </b> Chest pain.</p>
+<p><b>TECHNIQUE AND FINDINGS: </b> Coronary artery CTA was performed on a Siemens dual-source CT scanner.  Post-processing on a Vitrea workstation.  150 mL Ultravist 370 was utilized as the intravenous contrast agent.  Patient did receive nitroglycerin sublingually prior to the contrast.</p>
+<p><b>HISTORY: </b> Significant for high cholesterol, overweight, chest pain, family history</p>
+<p>Patient’s total calcium score (Agatston) is 10. his places the patient just below the 75th percentile for age.</p>
+<p>The LAD has a moderate area of stenosis in its midportion due to a focal calcified plaque.  The distal LAD was unreadable while the proximal was normal.  The mid and distal right coronary artery are not well delineated due to beam-hardening artifact.  The circumflex is diminutive in size along its proximal portion.  Distal is not readable.</p>
+<p>Cardiac wall motion within normal limits.  No gross pulmonary artery abnormality however they are not well delineated.  A full report was placed on the patient’s chart.  Report was saved to PACS.</p>

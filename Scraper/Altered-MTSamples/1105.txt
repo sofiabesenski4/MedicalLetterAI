@@ -1,0 +1,7 @@
+Adenosine Nuclear Scan
+<p><b>INDICATION: </b> Chest pain.</p>
+<p><b>TYPE OF TEST: </b> Adenosine with nuclear scan as the patient unable to walk on a treadmill.</p>
+<p><b>INTERPRETATION:</b> Resting heart rate of 67, blood pressure of 129/86.  EKG, normal sinus rhythm.  Post-Lexiscan 0.4 mg, heart rate was 83, blood pressure 142/74.  EKG remained the same.  No symptoms were noted.</p>
+<p><b>SUMMARY:</b><br/>1.  Nondiagnostic adenosine stress test.<br/>2.  Nuclear interpretation as below.</p>
+<p><b>NUCLEAR INTERPRETATION:</b>  Resting and stress images were obtained with 10.4, 33.1 mCi of tetrofosmin injected intravenously by standard protocol.  Nuclear myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake without any evidence of reversible or fixed defect.  Gated SPECT revealed normal wall motion, ejection fraction of 58%.  End-diastolic volume of 74, end-systolic volume of 31.</p>
+<p><b>IMPRESSION:</b><br/>1.  Normal nuclear myocardial perfusion scan.<br/>2.  Ejection fraction 58% by gated SPECT.</p>

@@ -1,0 +1,13 @@
+Normal Physical Exam Template – 1
+<p><b>GENERAL: </b> Vital signs and temperature as documented in nursing notes.  The patient appears stated age and is adequately developed.</p>
+<p><b>EYES:</b>  Pupils are equal, round, reactive to light and accommodation.  Lids and conjunctivae reveal no gross abnormality.</p>
+<p><b>ENT:  </b>Hearing appears adequate.  No obvious asymmetry or deformity of the ears and nose.</p>
+<p><b>NECK: </b> Trachea midline.  Symmetric with no obvious deformity or mass; no thyromegaly evident.</p>
+<p><b>RESPIRATORY:</b>  The patient has normal and symmetric respiratory effort.  Lungs are clear to auscultation.</p>
+<p><b>CARDIOVASCULAR: </b> S1, S2 without significant murmur.</p>
+<p><b>ABDOMEN: </b> Abdomen is flat, soft, nontender.  Bowel sounds are active.  No masses or pulsations present.</p>
+<p><b>EXTREMITIES: </b> Extremities reveal no remarkable dependent edema or varicosities.</p>
+<p><b>MUSCULOSKELETAL:  </b>The patient is ambulatory with normal and symmetric gait.  There is adequate range of motion without significant pain or deformity.</p>
+<p><b>SKIN: </b> Essentially clear with no significant rash or lesions.  Adequate skin turgor.</p>
+<p><b>NEUROLOGICAL: </b> No acute focal neurologic changes.</p>
+<p><b>PSYCHIATRIC:</b>  Mental status, judgment and affect are grossly intact and normal for age.</p>

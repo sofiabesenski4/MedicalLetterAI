@@ -1,0 +1,9 @@
+Holter Monitor Report
+<p><strong>INTERPRETATION:</strong><br/>
+1. Predominant rhythm is normal sinus rhythm.<br/>
+2. No supraventricular arrhythmia.<br/>
+3. Frequent premature ventricular contractions.<br/>
+4. Trigemini and couplets.<br/>
+5. No high-grade atrial ventricular block was noted.<br/>
+6. Diary was not kept.</p>
+<p><strong>IMPRESSION:</strong> Frequent premature atrial contractions, couplets, and trigemini.</p>

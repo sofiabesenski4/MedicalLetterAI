@@ -1,0 +1,4 @@
+Cardio/Pulmo Discharge Summary
+<p><b>ADMISSION DIAGNOSIS:</b><br/>1. Respiratory arrest.<br/>2 . End-stage chronic obstructive pulmonary disease.<br/>3. Coronary artery disease.<br/>4. History of hypertension.</p>
+<p><b>DISCHARGE DIAGNOSIS:</b><br/>1. Status post-respiratory arrest.<br/>2. Chronic obstructive pulmonary disease.<br/>3. Congestive heart failure.<br/>4. History of coronary artery disease.<br/>5. History of hypertension.</p>
+<p><b>SUMMARY:</b>  The patient is a 49-year-old man who was admitted to the hospital in respiratory distress, and had to be intubated shortly after admission to the emergency room. The patient</p>

@@ -1,0 +1,6 @@
+Nuclear Medicine Lymphatic Scan
+<p><b>EXAM:</b>  Nuclear medicine lymphatic scan.</p>
+<p><b>REASON FOR EXAM: </b> Left breast cancer.</p>
+<p><b>TECHNIQUE: </b> 1.0 mCi of Technetium-99m sulfur colloid was injected within the dermis surrounding the left breast biopsy site at four locations.  A 16-hour left anterior oblique imaging was performed with and without shielding of the original injection site.</p>
+<p><b>FINDINGS:  </b>There are two small foci of increased activity in the left axilla.  This is consistent with the sentinel lymph node.  No other areas of activity are visualized outside of the injection site and two axillary lymph nodes.</p>
+<p><b>IMPRESSION:  </b>Technically successful lymph node injection with two areas of increased activity in the left axilla consistent with sentinel lymph node.</p>

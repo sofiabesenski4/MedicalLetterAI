@@ -1,0 +1,28 @@
+A 5-month-old boy with cough
+<p><b>CHIEF COMPLAINT:</b>  A 5-month-old boy with cough.</p>
+<p><b>HISTORY OF PRESENT ILLNESS:</b>  A 5-month-old boy brought by his parents because of 2 days of cough.  Mother took him when cough started 2 days go to Clinic where they told the mother he has viral infection and gave him Tylenol, but yesterday at night cough got worse and he also started having fever.  Mother did not measure it.</p>
+<p><b>REVIEW OF SYSTEMS:</b>  No vomiting.  No diarrhea.  He had runny nose started with the cough two days ago.  No skin rash.  No cyanosis.  Pulling on his right ear.  Feeding, he is bottle-fed 2 ounces every 2 hours.  Mother states he urinates like 5 to 6 times a day, stools 1 time a day.  He is still feeding good to mom.</p>
+<p><b>IMMUNIZATIONS: </b> He received first set of shot and due for the second set on 01/17/2008.</p>
+<p><b>BIRTH HISTORY:</b>  He was premature at 33 weeks born at Hospital kept in NICU for 2 weeks for feeding problem as the mother said.  Mother had good prenatal care at 4 weeks for more than 12 visits.  No complications during pregnancy.  Rupture of membranes happened two days before the labor.  Mother received the antibiotics, but she is not sure, if she received steroids also or not.</p>
+<p><b>FAMILY HISTORY: </b> No history of asthma or lung disease.</p>
+<p><b>SOCIAL HISTORY: </b> Lives with parents and with two siblings, one 18-year-old and the other is 14-year-old in house, in Corrales.  They have animals, but outside the house and father smokes outside house.  No sick contacts as the mother said.</p>
+<p><b>PAST MEDICAL HISTORY:</b>  No hospitalizations.</p>
+<p><b>ALLERGIES: </b> NO KNOWN DRUG ALLERGIES.</p>
+<p><b>MEDICATIONS: </b> No medications.</p>
+<p>History of 2 previous ear infection, last one was in last November treated with ear drops, because there was pus coming from the right ear as the mother said.</p>
+<p><b>PHYSICAL EXAMINATION:  </b><br/>VITAL SIGNS:  Temperature 100.1, heart rate 184, respiratory rate 48.  Weight 7 kg.</p>
+<p>GENERAL:  In no acute distress.</p>
+<p>HEAD:  Normocephalic and atraumatic.  Open, soft, and flat anterior fontanelle.</p>
+<p>NECK:  Supple.</p>
+<p>NOSE:  Dry secretions.</p>
+<p>EAR:  Right ear full of yellowish material most probably pus and necrotic tissue.  Tympanic membrane bilaterally visualized.</p>
+<p>MOUTH:  No pharyngitis.  No ulcers.  Moist mucous membranes.</p>
+<p>CHEST:  Bilateral audible breath sound.  No wheezes.  No palpitation.</p>
+<p>HEART:  Regular rate and rhythm with no murmur.</p>
+<p>ABDOMEN:  Soft, nontender, and nondistended.</p>
+<p>GENITOURINARY:  Tanner I male with descended testes.</p>
+<p>EXTREMITIES:  Capillary refill less than 2 seconds.</p>
+<p><b>LABS:</b>  White blood cell 8.1, hemoglobin 10.5, hematocrit 30.9, and platelets 380,000.  CRP 6, segments 41, and bands 41.  RSV positive.  Chest x-ray evidenced bronchiolitis with hyperinflation and bronchial wall thickening in the central hilar region.  Subsegmental atelectasis in the right upper lobe and left lung base.</p>
+<p><b>ASSESSMENT:</b>  A 5-month-old male with 2 days of cough and 1 day of fever.  Chest x-ray shows bronchiolitis with atelectasis, and RSV antigen is positive.</p>
+<p><b>DIAGNOSES: </b> Respiratory syncytial virus bronchiolitis with right otitis externa.</p>
+<p><b>PLAN: </b> Plan was to admit to bronchiolitis pathway, and ciprofloxacin for right otitis externa eardrops twice daily.</p>

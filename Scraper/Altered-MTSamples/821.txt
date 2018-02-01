@@ -1,0 +1,3 @@
+Tilt Table Test
+<p><b>FINDINGS:</b><br/>1.  The patient’s supine blood pressure was 153/88 with heart rate of 54 beats per minute.<br/>2.  There was no significant change in heart rate or blood pressure on 80-degree tilt.<br/>3.  No symptoms reported during the tilt study.</p>
+<p><b>CONCLUSION: </b> Tilt table test is negative for any evidence of vasovagal, orthostasis or vasodepressor syndrome.</p>

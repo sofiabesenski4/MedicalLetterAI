@@ -1,0 +1,7 @@
+Cardiolite Treadmill Stress Test
+<p><b>CARDIOLITE TREADMILL EXERCISE STRESS TEST</b></p>
+<p><b>CLINICAL DATA:</b>  This is a 72-year-old female with history of diabetes mellitus, hypertension, and right bundle branch block.</p>
+<p><b>PROCEDURE:</b>  The patient was exercised on the treadmill to maximum tolerance achieving after 5 minutes a peak heart rate of 137 beats per minute with a workload of 2.3 METS.  There was a normal blood pressure response.  The patient did not complain of any symptoms during the test and other than the right bundle branch block that was present at rest, no other significant electrographic abnormalities were observed.</p>
+<p>Myocardial perfusion imaging was performed at rest following the injection of 10 mCi Tc-99 Cardiolite.  At peak pharmacological effect, the patient was injected with 30 mCi Tc-99 Cardiolite.</p>
+<p>Gating poststress tomographic imaging was performed 30 minutes after the stress.<br/><b><br/>FINDINGS:</b><br/>1.  The overall quality of the study is fair.<br/>2.  The left ventricular cavity appears to be normal on the rest and stress studies.<br/>3.  SPECT images demonstrate fairly homogeneous tracer distribution throughout the myocardium with no overt evidences of fixed and/or reperfusion defect.<br/>4.  The left ventricular ejection fraction was normal and estimated to be 78%.</p>
+<p><b>IMPRESSION: </b> Myocardial perfusion imaging is normal.  Result of this test suggests low probability for significant coronary artery disease.</p>

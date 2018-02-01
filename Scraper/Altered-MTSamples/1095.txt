@@ -1,0 +1,8 @@
+Dobutamine Stress Test
+<p><b>EXAM: </b> Dobutamine Stress Test.</p>
+<p><b>INDICATION: </b> Chest pain.</p>
+<p><b>TYPE OF TEST: </b> Dobutamine stress test, as the patient was unable to walk on a treadmill, and allergic to adenosine.</p>
+<p><b>INTERPRETATION: </b> Resting heart rate of 66 and blood pressure of 88/45.  EKG, normal sinus rhythm.  Post dobutamine increment dose, his peak heart rate achieved was 125, which is 87% of the target heart rate.  Blood pressure 120/42.  EKG remained the same.  No symptoms were noted.</p>
+<p><b>IMPRESSION:</b><br/>1. Nondiagnostic dobutamine stress test.<br/>2. Nuclear interpretation as below.</p>
+<p><b>NUCLEAR INTERPRETATION: </b> Resting and stress images were obtained with 10.8, 30.2 mCi of tetrofosmin injected intravenously by standard protocol.  Nuclear myocardial perfusion scan demonstrates homogeneous and uniform distribution of the tracer uptake without any evidence of reversible or fixed defect.  Gated and SPECT revealed normal wall motion and ejection fraction of 75%.  End-diastolic volume was 57 and end-systolic volume of 12.</p>
+<p><b>IMPRESSION:</b><br/>1. Normal nuclear myocardial perfusion scan.<br/>2. Ejection fraction of 75% by gated SPECT.</p>
