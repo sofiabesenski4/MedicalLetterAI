@@ -81,4 +81,4 @@ for item in pairs:
 print (category_count_dict.items())
 print("total paragraphs processed", total_paragraphs_processed)
 print("total paragraphs categorized", categorized_paragraphs)
-
+	
