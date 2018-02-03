@@ -31,7 +31,7 @@ images = convert_from_path(args.pdf)
 image_list =[]
 for i,image in enumerate(images):
 	image.save(str(i) + ".jpg")
-	print(str(i)+".jpg")
+	#print(str(i)+".jpg")
 	image_list.append(str(i)+".jpg")
 	
 
