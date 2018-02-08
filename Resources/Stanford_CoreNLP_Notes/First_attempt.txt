@@ -1,0 +1,8 @@
+NOTES: 
+Stanford CoreNLP Notes:
+
+Feb 7 2018:
+calling the command from insidde the /home/teb8/School/Research/LetterVirtualEnv/corenlp/stanford-corenlp-full-2018-01-31 folder:
+java -mx1g -cp "*:lib/*" edu.stanford.nlp.ie.NERClassifierCombiner -textFile sample.txt -ner.model classifiers/english.all.3class.distsim.crf.ser.gz, classifiers/english.conll.4class.distsim.crf.ser.gz,classifiers/english.muc.7class.distsim.crf.ser.gz
+will start the Stanford CoreNLP server, specifying the input as sample.txt, using the 3class, 4 class and 7 class crf classifiers
+and output the classified text to the terminal
